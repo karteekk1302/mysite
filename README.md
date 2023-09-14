@@ -1,2 +1,2 @@
 # mysite
-for sample django mysite example along with docker
+for sample django mysite example along with docker example
